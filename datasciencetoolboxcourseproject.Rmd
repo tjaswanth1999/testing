@@ -1,0 +1,12 @@
+---
+title: "markdown part of project"
+author: "me"
+date: "6/8/2020"
+output: pdf_document
+---
+#Creating a markdown file which is a part of course project
+##this is a markdown file
+```{r}
+print("hello world")
+```
+
